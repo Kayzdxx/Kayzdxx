@@ -6,7 +6,7 @@
 onde eu possa aplicar meus conhecimentos em minhas principais</br>
 áreas de interesse, como desenvolvimento de software,</br>
 administração de sistemas, etc. E contribuir para o sucesso da</br>
-equipe enquanto adquiro experiência prática e desenvolvo minhas. 
+equipe enquanto adquiro experiência prática e desenvolvo minhas habilidades. 
 </p>
 
 
