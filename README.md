@@ -33,7 +33,7 @@ equipe enquanto adquiro experiência prática e desenvolvo minhas habilidades.
  ## <h3 align="left"> ☎️ Contatos: </h3>
     
  <div>
-  <a href="https://www.linkedin.com/in/kaique-silva-correia-751841271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a href="https://www.linkedin.com/in/kayla-correia%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%E2%9A%A7%EF%B8%8F-751841271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
   <a href = "https://wa.me/5527992930270"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>      
   <a href = "mailto:kaiquesilvacorreia03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>  
